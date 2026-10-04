@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "168903104893",
+    "project_id": "dietaiapp-268dd",
+    "storage_bucket": "dietaiapp-268dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168903104893:android:f675d1becfbfd4717ed414",
+        "android_client_info": {
+          "package_name": "com.example.app_diet_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168903104893-dbitr4rbdch09ni3st6ngmmkrteie8d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_diet_ai",
+            "certificate_hash": "59870d40cb71d79eddb8c31f72dff040334f093e"
+          }
+        },
+        {
+          "client_id": "168903104893-dpuiks7dog5ijaou93nt5hrhamvki7l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOtAvxdkgQGxoHeTF5gokTEM-a6x-WDsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168903104893-dpuiks7dog5ijaou93nt5hrhamvki7l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
